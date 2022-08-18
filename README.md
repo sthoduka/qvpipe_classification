@@ -13,3 +13,6 @@ opencv-python==4.5.5.62
 ```
 
 To train the network, set parameters in `train.sh` and run it. To produce the results on the test set, run `test.sh` after specifying which checkpoint to use.
+
+
+A short report can be found [on this page](https://videopipe.github.io/results/index.html) (see under Task 1: Video Defect Classification).
